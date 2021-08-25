@@ -1,0 +1,10 @@
+.main-nav {
+  display: inline-block;
+  width: 30%;
+}
+
+.main-nav li {
+  float: left;
+  margin-left: 15%;
+  list-style-type: none;
+}
